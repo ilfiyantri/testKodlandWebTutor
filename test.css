@@ -6,6 +6,7 @@ html {
 }
 
 #bg1 {
+    display: grid;
     background-image: url("./images/background.png");
     height: 120%;
     width: 100%;
@@ -51,6 +52,7 @@ html {
 
 #bg2{
     height: 40%;
+    display: grid;
 }
 
 #secondtext{
@@ -72,6 +74,7 @@ html {
 #bg3 {
     height: 60%;
     background-color: rgb(159, 240, 240);
+    display: grid;
 }
 
 #thirdtext{
@@ -117,6 +120,7 @@ img{
 }
 
 #bg4{
+    display: grid;
     background-image: url("./images/bg-grid.png");
     background-size: 90%;
     background-repeat: no-repeat;
